@@ -1,5 +1,5 @@
 # vjs-cookie (Vanilla Javascript Cookies)
-Lightweight JavaScript for handling cookies
+Lightweight JavaScript for handling cookies.\
 size: 1.44kb
 
 ## CDN jsdelivr
